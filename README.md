@@ -10,7 +10,7 @@ Percipitation by Day       |  Temperature by Year
 :-------------------------:|:-------------------------:
 ![](Results/Fig1.png)      | ![](Results/Fig2.png) 
 
-- On average the percipitation is about 0.7
+- On average the percipitation levels are about 0.7
 - The most active station is USC00519281
 - Based on the most activate station, we can see that the temperature is above 67 degreess most of the year
 ---
